@@ -17,7 +17,6 @@ const BlogCard = ({ blog, deletable, handleDelete }) => {
         />
         <div className="py-6 space-y-2">
           <h3 className="text-2xl font-semibold group-hover:underline group-focus:underline">
-            {/* {title.substring(0, 25)}.. */}
             {title}
           </h3>
           <span className="text-xs ">
