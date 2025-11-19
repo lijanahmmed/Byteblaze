@@ -1,6 +1,29 @@
-# Byteblaze
+# ByteBlaze
 
-Live site:
+ByteBlaze is a modern **React** application for reading blogs. It leverages **React Router** for seamless navigation between different blog pages, offering users a smooth, single-page application experience.
+
+---
+
+## Features
+
+- Browse and read blogs on a clean, responsive interface
+- Navigate between Home, Blog Details, About, and Contact pages using **React Router**
+- Mobile-friendly and responsive design
+- Easy to add new blogs dynamically
+- Built with modern **React Hooks** and functional components
+
+---
+
+## Technology Stack
+
+- **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS
+- **Routing:** React Router v6
+- **State Management:** React Hooks (`useState`, `useEffect`)
+- **Version Control:** Git & GitHub
+
+---
+
+## Live Link:
 
 - [ByteBlaze](https://byte-blaze.netlify.app/)
 
