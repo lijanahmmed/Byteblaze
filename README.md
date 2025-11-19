@@ -25,9 +25,11 @@ ByteBlaze is a modern **React** application for reading blogs. It leverages **Re
 
 ## Live Link:
 
-- [ByteBlaze](https://byte-blaze.netlify.app/)
+[https://byte-blaze.netlify.app/](https://byte-blaze.netlify.app/)
 
-Resources:
+---
+
+## Resources:
 
 - [React Router Dom](https://reactrouter.com/en/main)
 - [Tailwindcss Buttons](https://devdojo.com/tailwindcss/buttons)
